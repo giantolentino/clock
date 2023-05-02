@@ -13,8 +13,8 @@ body {
 }
 
 .clock {
-  font-size: 15vw;
+  font-size: 30vw;
   color: white;
   font-family: monospace;
-  text-shadow: 0px 0px 10px white;
+  text-shadow: 0px 0px 5px white;
 }
