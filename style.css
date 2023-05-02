@@ -23,4 +23,11 @@ body {
   content: ':';
   position: relative;
   top: -0.1em;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
 }
