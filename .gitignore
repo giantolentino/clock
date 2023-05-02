@@ -1,0 +1,24 @@
+# MacOS-specific files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Compiled output
+*.min.css
+*.min.js
+*.map
+
+# Logs and backups
+*.log
+*.log.*
+*.bak
+*.swp
