@@ -9,5 +9,5 @@ This is a simple digital clock screensaver built using HTML, CSS, and JavaScript
 
 ## Future Additions.
 - Select time format, 12hr or 24hr
-- Change font color, background color
+- Change font color, background color 
 
