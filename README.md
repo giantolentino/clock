@@ -8,6 +8,6 @@ This is a simple digital clock screensaver built using HTML, CSS, and JavaScript
 - Colon blinking animation to indicate time passage  
 
 ## Future Additions.
-- Select time format, 12hr or 24hr
+- Select time format, 12hr or 24hr 
 - Change font color, background color 
 
