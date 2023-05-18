@@ -5,7 +5,7 @@ This is a simple digital clock screensaver built using HTML, CSS, and JavaScript
 ## Features
 - Large digital clock display
 - Monospaced font for easy reading
-- Colon blinking animation to indicate time passage 
+- Colon blinking animation to indicate time passage  
 
 ## Future Additions.
 - Select time format, 12hr or 24hr
